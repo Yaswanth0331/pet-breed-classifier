@@ -1,0 +1,13 @@
+Most confused breeds (true -> predicted : count):
+  Staffordshire Bull Terrier -> American Pit Bull Terrier : 25
+  Ragdoll -> Birman : 18
+  Birman -> Ragdoll : 18
+  American Pit Bull Terrier -> Staffordshire Bull Terrier : 14
+  American Pit Bull Terrier -> American Bulldog : 13
+
+Weakest breeds (recall):
+  Staffordshire Bull Terrier : 0.46
+  American Pit Bull Terrier : 0.54
+  Maine Coon : 0.72
+  Birman : 0.75
+  Ragdoll : 0.76
